@@ -20,15 +20,15 @@ Math & CS Enthusiast | Game Developer & Applied Logic Learner
 
 ### 💻 Game Development & Software Engineering
 - **Indie Game Development**:
-  - Currently collaborating with a co-creator on an unannounced **Indie Game Project**.
+  - Currently collaborating with a co-creator on an unannounced **[Independent Game Project](https://github.com/matheason/TheBlackHouse)**.
   - **Engine**: Unity
-- **Programming Languages**: Python, C#, Java, C/C++
+- **Programming Languages**: Python, C#, Java
 - **AI-Assisted Development**: Hands-on experience integrating AI tools and LLMs into programming workflows and game logic architecture.
 
 ---
 
 ### 🛠 Tools & Ecosystem
-- **Game Dev & Scientific**: Unity, $\LaTeX$, Markdown
+- **Game Dev & Scientific**: Unity, $\LaTeX$
 - **Developer Tools**: Git, GitHub, VS Code
 
 ---
